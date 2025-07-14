@@ -1,0 +1,9 @@
+# Hostel Financial Model Requirements
+
+pandas==2.2.0
+openpyxl==3.1.2
+matplotlib==3.8.2
+numpy==1.26.3
+seaborn==0.13.1
+xlsxwriter==3.1.9
+python-dateutil==2.8.2
